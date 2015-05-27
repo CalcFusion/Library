@@ -6,8 +6,8 @@ We are a start-up company owned and managed by directors that have been in the I
 # Blog
 http://calcfusion.com/blog/
 
-Twitter - https://www.facebook.com/CalcFusion
-Linkedln - https://www.linkedin.com/company/calcfusion
-YouTube - https://www.youtube.com/channel/UCa3-kKSd7bTcf11WglWZPQg
-Facebook - https://www.facebook.com/CalcFusion
-Google+ - https://plus.google.com/+CalcfusionLtd
+Twitter - https://www.facebook.com/CalcFusion<br>
+Linkedln - https://www.linkedin.com/company/calcfusion<br>
+YouTube - https://www.youtube.com/channel/UCa3-kKSd7bTcf11WglWZPQg<br>
+Facebook - https://www.facebook.com/CalcFusion<br>
+Google+ - https://plus.google.com/+CalcfusionLtd<br>
